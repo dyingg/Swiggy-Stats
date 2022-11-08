@@ -1,0 +1,46 @@
+body {
+  background-color: #fff;
+  height: 100vh;
+
+  margin: 5vh 10vw;
+}
+
+.input {
+  color: #000;
+}
+.App {
+}
+
+.enter {
+  margin-top: 10px;
+}
+.consent {
+  display: flex;
+  text-align: left;
+  font-size: 12px;
+  display: flex;
+  margin-left: -1em;
+  align-items: center;
+}
+
+.sub > h2 {
+  margin-top: 0;
+  padding-top: 0;
+  font-style: italic;
+}
+
+.sub > h1 {
+  margin-bottom: 0px;
+}
+
+.input {
+  width: 100%;
+}
+
+.sub > p {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.MuiSvgIcon-root {
+  height: 1em;
+}
